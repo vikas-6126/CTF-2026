@@ -1,0 +1,947 @@
+{
+  "users": {
+    "coord_1792425307467": {
+      "uid": "coord_1792425307467",
+      "email": "vikas2006126@gmail.com",
+      "fullName": "Vikas (Lead Coordinator)",
+      "regNo": "COORD-2026-01",
+      "yearOfStudy": "Second Year",
+      "role": "ADMINISTRATOR",
+      "passwordHash": "9f37347ffc43014b2d2ac2b19bf704061827a504e51ebca022661e190f431bb9e48662f3a88ab2c94eb718fedefca5ac635c59ac300fcf015d0bec8afdaf4128",
+      "salt": "63a6e36a87e688423de562e9bd432aea",
+      "registeredAt": 1792338907528,
+      "status": "ACTIVE"
+    },
+    "student_benchmark_1": {
+      "uid": "student_benchmark_1",
+      "email": "aarav.sharma@cyberfort.edu",
+      "fullName": "Aarav Sharma",
+      "regNo": "2026CS1049",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "fc99aab104f93c4c950b5ff35a9e8d8cac755232c95192ca6951b488a1818c912acde44ac7d56fb3696fb6ba3b3ab4d2d580e925cf02d8ecf201b415730cf34a",
+      "salt": "6d2e6cf92604d0a0fc45a305cfc6584d",
+      "registeredAt": 1792421707590,
+      "status": "ACTIVE"
+    },
+    "student_benchmark_2": {
+      "uid": "student_benchmark_2",
+      "email": "priya.nair@cyberfort.edu",
+      "fullName": "Priya Nair",
+      "regNo": "2026EC2110",
+      "yearOfStudy": "Second Year",
+      "role": "STUDENT",
+      "passwordHash": "01f141608efd1ee6021041ff26ddb316b05f5d4b2f091590be9e5842883c637fc8197b5725ae6dd68ae12e60ffe1efb5bc877b284edd8b7ae80abbfa4e460dba",
+      "salt": "88bef347739f56b20fae37e94ea649a2",
+      "registeredAt": 1792418107631,
+      "status": "ACTIVE"
+    },
+    "student_benchmark_3": {
+      "uid": "student_benchmark_3",
+      "email": "dev.patel@cyberfort.edu",
+      "fullName": "Dev Patel",
+      "regNo": "2026IT3015",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "20ab208d50b191e13846928675cefa4353b4402a08ef212ecf772b8609483b7226ea64947209b4e8f00a187b04df40b62db2ce01af82bc90b555c524735416bd",
+      "salt": "b5b8f14686a14edb0dadc6032f68f104",
+      "registeredAt": 1792414507677,
+      "status": "ACTIVE"
+    },
+    "student_1792425328625": {
+      "uid": "student_1792425328625",
+      "email": "teststudent_1792425328609@cyberfort.edu",
+      "fullName": "Test Candidate",
+      "regNo": "TEST328609",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "ec9f7119b7637e8d6fa84b953ab9015dc5fb89e99944f651c8efec6f6ff6917418fc170cb8cd8be3e56724c3eaea4bc03837507de1e0a6efa04db899d4cb0539",
+      "salt": "9ddc9882d4cf0aa0154c01355b0d59c4",
+      "registeredAt": 1792425328664,
+      "status": "ACTIVE"
+    },
+    "student_1792425328795": {
+      "uid": "student_1792425328795",
+      "email": "student2_1792425328793@cyberfort.edu",
+      "fullName": "Second Student",
+      "regNo": "S2_28793",
+      "yearOfStudy": "Second Year",
+      "role": "STUDENT",
+      "passwordHash": "3697b8c02b6567d19acde797e81b38365e68ccdb87069aa255795aef1b8d43e32df3635098e3af175c7821b0aa19c6c27ecde79948e7bfa39f5277f240f90b07",
+      "salt": "fa9c3d1aec989f4dc547a1e4581056e0",
+      "registeredAt": 1792425328836,
+      "status": "ACTIVE"
+    },
+    "student_1792425343961": {
+      "uid": "student_1792425343961",
+      "email": "flag_1792425343880@cyberfort.edu",
+      "fullName": "Flag Tester",
+      "regNo": "FLAGTEST_3880",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "0b35737092ba5ae821baaad6314db9e04b7ef30404f5a80e9acef6090689db7f57164c7f98f14760ff9b0e235563bb43c550c105c900fa273c1df13bb9e3c3d5",
+      "salt": "11bae214fc624334519688055b584003",
+      "registeredAt": 1792425344004,
+      "status": "ACTIVE"
+    },
+    "student_1792425357862": {
+      "uid": "student_1792425357862",
+      "email": "expired_1792425357781@cyberfort.edu",
+      "fullName": "Expired Tester",
+      "regNo": "EXP_7781",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "13809abeea46cfc7a497c4733f43520831eab944f28f3d8c12db63af3edcb6c913cb1c8b9b20e8597cdaaaba7129dd887e750b2bc7872d8dc4fd4422299074aa",
+      "salt": "376698d73afaf62e87134b9f9747710b",
+      "registeredAt": 1792425357901,
+      "status": "ACTIVE"
+    },
+    "student_1792480809526": {
+      "uid": "student_1792480809526",
+      "email": "analyst_test_1792480809@cyberfort.edu",
+      "fullName": "Security Analyst",
+      "regNo": "SEC_1792480809",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "b5d07d9b8daf639fa99e9490e7bc6dcb0638934dc09853c91aeda8189a3926ea56360be77fe0a4b302d8ea07c649b94dec138d9086ea69ad04f711a5b43eb1c9",
+      "salt": "f86ae93e85927aa67d7e354e594a147f",
+      "registeredAt": 1792480809598,
+      "status": "ACTIVE"
+    },
+    "student_1792482765898": {
+      "uid": "student_1792482765898",
+      "email": "test.cadet@cyberfort.edu",
+      "fullName": "Test Cadet",
+      "regNo": "2026TEST99",
+      "yearOfStudy": "First Year",
+      "role": "STUDENT",
+      "passwordHash": "f55ae497e5b3aee66958736537e1443d0dac044b4b07fed130c207ad9b092a3ec196c5418e6672ccb33e7ae2759a57f921897e17c04533c5648255b7c70685e0",
+      "salt": "6972453e3d1aa4a19737b49c93a2ac03",
+      "registeredAt": 1792482765959,
+      "status": "ACTIVE"
+    }
+  },
+  "sessions": {
+    "216de623aa5ca77c323997b63a7e86e84a2fba8f1c67d8df8c6b2ad5718e1bf0": {
+      "token": "216de623aa5ca77c323997b63a7e86e84a2fba8f1c67d8df8c6b2ad5718e1bf0",
+      "uid": "student_1792425328625",
+      "role": "STUDENT",
+      "createdAt": 1792425328665,
+      "expiresAt": 1793030128665
+    },
+    "b9d8b48f48ac8dad8650558eaa4e0506c616042bc79f8bfe78429004f4fcd00d": {
+      "token": "b9d8b48f48ac8dad8650558eaa4e0506c616042bc79f8bfe78429004f4fcd00d",
+      "uid": "coord_1792425307467",
+      "role": "COORDINATOR",
+      "createdAt": 1792425328779,
+      "expiresAt": 1792511728779
+    },
+    "5cddc6d3a38f1139f69aa24a3cf412c7497b5fd8c4b088a2c47ebc723911da2e": {
+      "token": "5cddc6d3a38f1139f69aa24a3cf412c7497b5fd8c4b088a2c47ebc723911da2e",
+      "uid": "student_1792425328795",
+      "role": "STUDENT",
+      "createdAt": 1792425328836,
+      "expiresAt": 1793030128836
+    },
+    "341b84bf984088baca5e87bdf6b94275e3137c43ce9ab3902c3ff4302b2a2c61": {
+      "token": "341b84bf984088baca5e87bdf6b94275e3137c43ce9ab3902c3ff4302b2a2c61",
+      "uid": "student_1792425343961",
+      "role": "STUDENT",
+      "createdAt": 1792425344004,
+      "expiresAt": 1793030144004
+    },
+    "e89333c94e42810872064e84fa1714a1bcd8e96ee8f21139238e416614d0b50a": {
+      "token": "e89333c94e42810872064e84fa1714a1bcd8e96ee8f21139238e416614d0b50a",
+      "uid": "student_1792425357862",
+      "role": "STUDENT",
+      "createdAt": 1792425357902,
+      "expiresAt": 1793030157902
+    },
+    "e90450a49d9fa0b13fa9991efbdb909d981353dd6b2ce6f89f7cc02c4a8557cb": {
+      "token": "e90450a49d9fa0b13fa9991efbdb909d981353dd6b2ce6f89f7cc02c4a8557cb",
+      "uid": "student_1792425357862",
+      "role": "STUDENT",
+      "createdAt": 1792425418663,
+      "expiresAt": 1793030218663
+    },
+    "03473aa3425740c62c33bd48a41727ef4389d3d9759c3d668df7130aa46cc781": {
+      "token": "03473aa3425740c62c33bd48a41727ef4389d3d9759c3d668df7130aa46cc781",
+      "uid": "coord_1792425307467",
+      "role": "COORDINATOR",
+      "createdAt": 1792476643141,
+      "expiresAt": 1792563043141
+    },
+    "c8d3e346da8cf1848e5c2e1778d4f681d203bf16a563da39eab83a9dd9d5b6f0": {
+      "token": "c8d3e346da8cf1848e5c2e1778d4f681d203bf16a563da39eab83a9dd9d5b6f0",
+      "uid": "student_1792480809526",
+      "role": "STUDENT",
+      "createdAt": 1792480809598,
+      "expiresAt": 1793085609598
+    },
+    "1832822b10ce0dd9da561881753c967418308f9e86bf9d6f8f25611d2139a978": {
+      "token": "1832822b10ce0dd9da561881753c967418308f9e86bf9d6f8f25611d2139a978",
+      "uid": "student_benchmark_1",
+      "role": "STUDENT",
+      "createdAt": 1792482760370,
+      "expiresAt": 1793087560370
+    },
+    "6ca35c0f98ecf843e5942770712669065dd74fc711a7f48bd7a04345818ba8e6": {
+      "token": "6ca35c0f98ecf843e5942770712669065dd74fc711a7f48bd7a04345818ba8e6",
+      "uid": "student_1792482765898",
+      "role": "STUDENT",
+      "createdAt": 1792482765959,
+      "expiresAt": 1793087565959
+    },
+    "37b51a70b412eb11cf3d21703b6ea06307e4279c34a2b7a6e0cabb33d12fde70": {
+      "token": "37b51a70b412eb11cf3d21703b6ea06307e4279c34a2b7a6e0cabb33d12fde70",
+      "uid": "coord_1792425307467",
+      "role": "COORDINATOR",
+      "createdAt": 1792482816712,
+      "expiresAt": 1792569216712
+    },
+    "9a7db3dcd77e27670dabf44c16622fac986a18d537d20eb3252aa64e7b4a651c": {
+      "token": "9a7db3dcd77e27670dabf44c16622fac986a18d537d20eb3252aa64e7b4a651c",
+      "uid": "student_benchmark_1",
+      "role": "STUDENT",
+      "createdAt": 1792485180100,
+      "expiresAt": 1793089980100
+    },
+    "e54fa688bbc8bee00c62ec091e265ee58cb0535a1b8666c2fb50b145df4ad228": {
+      "token": "e54fa688bbc8bee00c62ec091e265ee58cb0535a1b8666c2fb50b145df4ad228",
+      "uid": "coord_1792425307467",
+      "role": "ADMINISTRATOR",
+      "createdAt": 1792485180174,
+      "expiresAt": 1792571580174
+    }
+  },
+  "attempts": {
+    "student_benchmark_1": {
+      "userId": "student_benchmark_1",
+      "challengeId": "ch_lab1",
+      "startedAt": 1792421707590,
+      "expiresAt": 1792422607590,
+      "completed": true,
+      "completedAt": 1792422027590,
+      "durationSeconds": 320,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 100,
+      "hintsUsed": 0,
+      "submittedFlag": "CYBERFORT{LAB_1}"
+    },
+    "student_benchmark_2": {
+      "userId": "student_benchmark_2",
+      "challengeId": "ch_vault4",
+      "startedAt": 1792418107631,
+      "expiresAt": 1792419007631,
+      "completed": true,
+      "completedAt": 1792418517631,
+      "durationSeconds": 410,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 95,
+      "hintsUsed": 1,
+      "submittedFlag": "CYBERFORT{VAULT_4}"
+    },
+    "student_benchmark_3": {
+      "userId": "student_benchmark_3",
+      "challengeId": "ch_bay7",
+      "startedAt": 1792414507677,
+      "expiresAt": 1792415407677,
+      "completed": true,
+      "completedAt": 1792415019677,
+      "durationSeconds": 512,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 90,
+      "hintsUsed": 2,
+      "submittedFlag": "CYBERFORT{BAY_7}"
+    },
+    "student_1792425328625": {
+      "userId": "student_1792425328625",
+      "challengeId": "ch_rack09",
+      "startedAt": 1792425328788,
+      "expiresAt": 1792426228788,
+      "completed": false,
+      "expired": false,
+      "collectedClues": [],
+      "identifiedLocation": false,
+      "score": 0,
+      "hintsUsed": 0
+    },
+    "student_1792425328795": {
+      "userId": "student_1792425328795",
+      "challengeId": "ch_rack09",
+      "startedAt": 1792425328839,
+      "expiresAt": 1792426228839,
+      "completed": false,
+      "expired": false,
+      "collectedClues": [],
+      "identifiedLocation": false,
+      "score": 0,
+      "hintsUsed": 0
+    },
+    "student_1792425343961": {
+      "userId": "student_1792425343961",
+      "challengeId": "ch_station5",
+      "startedAt": 1792425344014,
+      "expiresAt": 1792426244014,
+      "completed": true,
+      "expired": false,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 100,
+      "hintsUsed": 0,
+      "completedAt": 1792425344036,
+      "durationSeconds": 1,
+      "submittedFlag": "CYBERFORT{STATION_5}"
+    },
+    "student_1792425357862": {
+      "userId": "student_1792425357862",
+      "challengeId": "ch_archive2",
+      "startedAt": 1792425357913,
+      "expiresAt": 1792425352916,
+      "completed": false,
+      "expired": true,
+      "collectedClues": [],
+      "identifiedLocation": false,
+      "score": 0,
+      "hintsUsed": 0
+    },
+    "student_1792480809526": {
+      "userId": "student_1792480809526",
+      "challengeId": "ch_vault4",
+      "startedAt": 1792480809622,
+      "expiresAt": 1792481709622,
+      "completed": true,
+      "expired": false,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 100,
+      "hintsUsed": 0,
+      "completedAt": 1792480822143,
+      "durationSeconds": 13,
+      "submittedFlag": "CYBERFORT{VAULT_4}"
+    },
+    "student_1792482765898": {
+      "userId": "student_1792482765898",
+      "challengeId": "ch_vault4",
+      "startedAt": 1792482770566,
+      "expiresAt": 1792483670566,
+      "completed": true,
+      "expired": false,
+      "collectedClues": [
+        "workstation",
+        "cctv",
+        "access_log"
+      ],
+      "identifiedLocation": true,
+      "score": 85,
+      "hintsUsed": 3,
+      "completedAt": 1792482812022,
+      "durationSeconds": 41,
+      "submittedFlag": "CYBERFORT{VAULT_4}"
+    }
+  },
+  "challenges": {
+    "ch_lab1": {
+      "id": "ch_lab1",
+      "title": "OPERATION SHADOW HUNT: LAB 1 INCIDENT",
+      "venueLabel": "CYBERFORT — CAREER PRESS SCHOOL — LAB 1",
+      "environmentTheme": "Forensic Lab 1",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Digital Workstation WS-01",
+          "text": "The incident workstation memory log confirms the primary breach endpoint is registered to LAB 1.",
+          "evidenceSnippet": "LOG_ID: #4092-A | HOST: WS-INVESTIGATE-01 | ASSET_LOCATION: LAB 1 | DOMAIN: CAREER_PRESS",
+          "locationLabel": "Workstation Terminal"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "CCTV Surveillance Monitor",
+          "text": "Security camera channel CH-04 identifies LAB 1 as the physical room where the extracted drive was retrieved.",
+          "evidenceSnippet": "CAM_FEED: CH-04-SECURITY | TIMESTAMP: 02:41:19 UTC | LOC_TAG: LAB 1 | EVENT: ARTIFACT_SEIZED",
+          "locationLabel": "Wall Surveillance"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Keycard Access Terminal",
+          "text": "The electronic door scan records badge RFID-8812 entering LAB 1 immediately prior to network detachment.",
+          "evidenceSnippet": "RFID_SCAN: KEY-8812 | GATEWAY: UNIT-01 | ROOM_ASSIGNED: LAB 1 | CLEARANCE: AUTHORIZED",
+          "locationLabel": "Card Access Unit"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Network Core Switch",
+          "text": "Gateway 192.168.1.1 packet inspection is nominal. No routing anomalies detected."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Hardware Evidence Locker",
+          "text": "Cryo-sealed vacuum container holding the seized magnetic storage drive."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Schematic Archive",
+          "text": "School architectural wiring plans. No active indicators recorded."
+        }
+      },
+      "distractors": [
+        "SERVER ROOM",
+        "NOC BAY 4",
+        "VAULT 2"
+      ],
+      "options": [
+        "LAB 1",
+        "SERVER ROOM",
+        "NOC BAY 4",
+        "VAULT 2"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "LAB 1",
+        "flag": "CYBERFORT{LAB_1}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_vault4": {
+      "id": "ch_vault4",
+      "title": "OPERATION SHADOW HUNT: VAULT 4 BREACH",
+      "venueLabel": "CYBERFORT — SECURE ARCHIVE — VAULT 4",
+      "environmentTheme": "High-Security Server Vault",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Airgap Terminal AG-04",
+          "text": "Airgapped workstation diagnostic report lists target enclosure identifier as VAULT 4.",
+          "evidenceSnippet": "AIRGAP_DUMP: #8102-B | HOST: TERMINAL-VAULT | ASSET_LOCATION: VAULT 4 | INTEGRITY: COMPROMISED",
+          "locationLabel": "Airgap Console"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Biometric Cam CAM-V4",
+          "text": "Optical sensor CAM-V4 recorded unauthorized hardware extraction inside the fortified perimeter of VAULT 4.",
+          "evidenceSnippet": "VIDEO_INDEX: CH-09-VAULT | TIME: 03:15:42 UTC | TARGET_ZONE: VAULT 4 | ALERT: TAMPER_DETECTED",
+          "locationLabel": "Vault Surveillance"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Magnetic Interlock Panel",
+          "text": "The heavy steel interlock log flags an electronic seal bypass event at the heavy threshold of VAULT 4.",
+          "evidenceSnippet": "INTERLOCK: SEAL-V4 | SENSOR: MAGNETIC_BOLT | ROOM_ASSIGNED: VAULT 4 | STATUS: MANUAL_BYPASS",
+          "locationLabel": "Vault Interlock"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Cooling Circulation Controller",
+          "text": "Helium chillers operating at normal pressure. Ambient temperature 14.2°C."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Faraday Cage Repository",
+          "text": "Electrostatic discharge shielding intact. No external signal penetration."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Cipher Key Locker",
+          "text": "Offline mechanical ledger storing dual-custody key fragments."
+        }
+      },
+      "distractors": [
+        "VAULT 1",
+        "RACK 12",
+        "COLD STORAGE"
+      ],
+      "options": [
+        "VAULT 4",
+        "VAULT 1",
+        "RACK 12",
+        "COLD STORAGE"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "VAULT 4",
+        "flag": "CYBERFORT{VAULT_4}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_bay7": {
+      "id": "ch_bay7",
+      "title": "OPERATION SHADOW HUNT: NOC BAY 7 INTRUSION",
+      "venueLabel": "CYBERFORT — NETWORK OPERATIONS — BAY 7",
+      "environmentTheme": "NOC Infrastructure Bay",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Packet Sniffer Console",
+          "text": "Promiscuous packet capture log indicates unauthorized traffic tap connected directly at BAY 7.",
+          "evidenceSnippet": "PCAP_AGENT: SNIFF-BAY7 | INTERFACE: ETH0_TAP | ASSET_LOCATION: BAY 7 | FLOW: EXFIL_DETECTED",
+          "locationLabel": "NOC Sniffer Unit"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "NOC Overhead Cam 7",
+          "text": "Ceiling panoramic camera records a rogue field technician deploying hardware directly into BAY 7.",
+          "evidenceSnippet": "CCTV_FRAME: NOC-OVERHEAD-7 | UTC: 01:18:04 | ZONE_TAG: BAY 7 | OBJECT: ROGUE_HOTSPOT",
+          "locationLabel": "Ceiling Surveillance"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Floor Turnstile Terminal",
+          "text": "Turnstile gate gateway report logs sub-floor contractor entry granted specifically for maintenance at BAY 7.",
+          "evidenceSnippet": "GATE_ENTRY: TS-03 | BADGE: CONTRACTOR-91 | DESTINATION: BAY 7 | VERIFICATION: OVERRIDE",
+          "locationLabel": "Sub-floor Gate"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "100G Fiber Aggregator",
+          "text": "Backbone optical transceivers reporting normal link attenuation."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "UPS Power Battery Bank",
+          "text": "Battery string at 99.4% capacity. Grid voltage stabilized."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Patch Cable Matrix",
+          "text": "High-density Cat6A patch panel routing intra-rack telemetry."
+        }
+      },
+      "distractors": [
+        "BAY 2",
+        "FIBER VAULT",
+        "DISPATCH ROOM"
+      ],
+      "options": [
+        "BAY 7",
+        "BAY 2",
+        "FIBER VAULT",
+        "DISPATCH ROOM"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "BAY 7",
+        "flag": "CYBERFORT{BAY_7}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_rack09": {
+      "id": "ch_rack09",
+      "title": "OPERATION SHADOW HUNT: DATACENTER RACK 09",
+      "venueLabel": "CYBERFORT — CENTRAL DATA CENTER — RACK 09",
+      "environmentTheme": "Blade Server Enclosure",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Blade Management KVM",
+          "text": "Chassis management controller reports physical chassis intrusion sensor tripped on server rack RACK 09.",
+          "evidenceSnippet": "CHASSIS_ALERT: #9901 | ILO_UNIT: BLADE-R09 | ASSET_LOCATION: RACK 09 | EVENT: COVER_REMOVED",
+          "locationLabel": "Blade KVM"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Cold Aisle Camera CAM-09",
+          "text": "Surveillance feed records an unidentified USB key inserted into server 3A mounted on RACK 09.",
+          "evidenceSnippet": "CAM_FEED: COLD-AISLE-09 | TIMESTAMP: 04:02:11 UTC | LOC_TAG: RACK 09 | INCIDENT: USB_INSERTION",
+          "locationLabel": "Cold Aisle Camera"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Smart PDU Power Controller",
+          "text": "Power distribution sensor logged unexpected voltage drop and reboot command centered on RACK 09.",
+          "evidenceSnippet": "PDU_AUDIT: PDU-B-09 | OUTLET_CLUSTER: GRP-3 | ASSIGNED_ZONE: RACK 09 | STATUS: POWER_CYCLING",
+          "locationLabel": "Smart PDU Unit"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Tape Backup Robotic Library",
+          "text": "Automated LTO-9 tape robotic arm idle. Magazine carousel secured."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "CRAC Unit Air Handler",
+          "text": "Downflow air conditioning running at 18.0°C. Blower motors nominal."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Hardware RMA Locker",
+          "text": "Decommissioned hard drives awaiting degaussing."
+        }
+      },
+      "distractors": [
+        "RACK 03",
+        "SWITCH CLUSTER",
+        "STAGING AREA"
+      ],
+      "options": [
+        "RACK 09",
+        "RACK 03",
+        "SWITCH CLUSTER",
+        "STAGING AREA"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "RACK 09",
+        "flag": "CYBERFORT{RACK_09}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_sector3": {
+      "id": "ch_sector3",
+      "title": "OPERATION SHADOW HUNT: SECTOR 3 COMPROMISE",
+      "venueLabel": "CYBERFORT — CYBER COMMAND — SECTOR 3",
+      "environmentTheme": "Incident Threat Operations",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Threat Hunting Terminal",
+          "text": "SIEM alert correlates rootkit command-and-control beaconing from a terminal designated inside SECTOR 3.",
+          "evidenceSnippet": "SIEM_ALERT: #C2-911 | SOURCE_TAG: SECTOR 3 | PROTOCOL: DNS_TUNNEL | THREAT_SEVERITY: HIGH",
+          "locationLabel": "SIEM Terminal"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Tactical Dome Camera 3",
+          "text": "Incident room ceiling dome logs physical anomaly indicator corresponding to workstation row SECTOR 3.",
+          "evidenceSnippet": "TACTICAL_FEED: DOME-SEC3 | TIME: 03:49:10 UTC | ROOM_LOCATION: SECTOR 3 | SENSOR: MOTION_SPIKE",
+          "locationLabel": "Dome Surveillance"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Biometric Turnstile Scanner",
+          "text": "Command perimeter turnstile records badge credential cloning attempt at entry portal SECTOR 3.",
+          "evidenceSnippet": "BIOMETRIC_LOG: SCAN-S3 | PORTAL_ZONE: SECTOR 3 | RESULT: CLONED_TOKEN_DETECTED",
+          "locationLabel": "Biometric Scanner"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Global Threat Map Display",
+          "text": "Live geo-IP telemetry tracking incoming automated probe traffic."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Cryptographic HSM Enclosure",
+          "text": "Hardware Security Module tamper loops armed. Key store active."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Forensic Write-Blocker Kit",
+          "text": "Tableau SATA/NVMe write-blocker ready for disk imaging."
+        }
+      },
+      "distractors": [
+        "SECTOR 1",
+        "SEC-OPS ROOM",
+        "COMMS BUNKER"
+      ],
+      "options": [
+        "SECTOR 3",
+        "SECTOR 1",
+        "SEC-OPS ROOM",
+        "COMMS BUNKER"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "SECTOR 3",
+        "flag": "CYBERFORT{SECTOR_3}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_pod_c": {
+      "id": "ch_pod_c",
+      "title": "OPERATION SHADOW HUNT: CLOUD POD C BREACH",
+      "venueLabel": "CYBERFORT — CLOUD DATACENTER — POD C",
+      "environmentTheme": "Modular Hypervisor Pod",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Kubernetes Master Node Console",
+          "text": "Container escape log records unauthorized host root execution occurring on server blade in POD C.",
+          "evidenceSnippet": "KUBE_AUDIT: POD-ESCAPE-88 | HOST_ID: HYPER-C01 | ASSET_LOCATION: POD C | PRIVILEGE: ROOT_ESCALATION",
+          "locationLabel": "Cluster Node"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Containment Ceiling Camera",
+          "text": "Security video identifies an anomalous USB dongle plugged into modular containment area POD C.",
+          "evidenceSnippet": "SURVEILLANCE: CAM-POD-C | TIMESTAMP: 02:22:45 UTC | ZONE_TAG: POD C | EVENT: PHYSICAL_TAMPER",
+          "locationLabel": "Pod Surveillance"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Sub-floor Sensor Controller",
+          "text": "Thermal and contact alarms record raised floor tiles pulled up inside modular enclosure POD C.",
+          "evidenceSnippet": "SENSOR_ALARM: FLOOR-TRAY | ZONE: POD C | TIMESTAMP: 02:21:50 UTC | STATUS: CONTACT_BROKEN",
+          "locationLabel": "Sub-floor Sensor"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Leaf-Spine 400G Switch",
+          "text": "Arista leaf switch with BGP EVPN fabric. Zero packet drops on spine uplink."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Nitrogen Suppression Tank",
+          "text": "Inergen clean-agent fire suppression system pressurized at 300 bar."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Fiber Breakout Tray",
+          "text": "MTP-24 fiber breakout cassette connecting hypervisor fabric."
+        }
+      },
+      "distractors": [
+        "POD A",
+        "STORAGE CLUSTER",
+        "MEZZANINE"
+      ],
+      "options": [
+        "POD C",
+        "POD A",
+        "STORAGE CLUSTER",
+        "MEZZANINE"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "POD C",
+        "flag": "CYBERFORT{POD_C}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_archive2": {
+      "id": "ch_archive2",
+      "title": "OPERATION SHADOW HUNT: FORENSIC ARCHIVE 2",
+      "venueLabel": "CYBERFORT — FORENSIC VAULT — ARCHIVE 2",
+      "environmentTheme": "Classified Forensic Archive",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "Evidence Ledger Terminal",
+          "text": "Chain-of-custody tracking software flags missing cold storage drive registered in ARCHIVE 2.",
+          "evidenceSnippet": "EVIDENCE_AUDIT: DRIVE-HASH-99 | REGISTERED_BAY: ARCHIVE 2 | CUSTODY_STATE: MISSING",
+          "locationLabel": "Ledger Terminal"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Laser Perimeter Cam CAM-A2",
+          "text": "Infrared motion sensor recorded an unbadged presence walking through vault partition ARCHIVE 2.",
+          "evidenceSnippet": "IR_SENSOR: BEAM-TRIP-02 | CAMERA_TAG: CAM-ARCHIVE-2 | LOCATION: ARCHIVE 2 | STATUS: INTRUSION",
+          "locationLabel": "Perimeter Camera"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Dual-Key Vault Wheel Panel",
+          "text": "The heavy vault door locking mechanism recorded an unassisted mechanical unlock of ARCHIVE 2.",
+          "evidenceSnippet": "VAULT_LOCK: WHEEL-A2 | PERIMETER_CODE: ARCHIVE 2 | TIME: 03:59:12 UTC | STATE: UNLOCKED",
+          "locationLabel": "Vault Wheel Lock"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Digital Evidence Safe",
+          "text": "Triple-redundant biometric locker for solid-state seized drives."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Degausser Demagnetizer",
+          "text": "Garner degausser unit for secure magnetic media eradication."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "Case File Schematics",
+          "text": "Paper evidence envelopes and chain-of-custody transfer logs."
+        }
+      },
+      "distractors": [
+        "ARCHIVE 1",
+        "EVIDENCE VAULT 5",
+        "BASEMENT LOCKER"
+      ],
+      "options": [
+        "ARCHIVE 2",
+        "ARCHIVE 1",
+        "EVIDENCE VAULT 5",
+        "BASEMENT LOCKER"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "ARCHIVE 2",
+        "flag": "CYBERFORT{ARCHIVE_2}"
+      },
+      "createdAt": 1772418000000
+    },
+    "ch_station5": {
+      "id": "ch_station5",
+      "title": "OPERATION SHADOW HUNT: SCADA STATION 5",
+      "venueLabel": "CYBERFORT — INDUSTRIAL SCADA HUB — STATION 5",
+      "environmentTheme": "Industrial SCADA Node",
+      "status": "published",
+      "clues": {
+        "workstation": {
+          "id": "workstation",
+          "name": "PLC Engineering Workstation",
+          "text": "SCADA monitoring software alerts on malicious firmware injection targeted at STATION 5.",
+          "evidenceSnippet": "PLC_SYS: MODBUS-PLC-05 | TARGET_HUB: STATION 5 | FIRMWARE: MODIFIED_BINARY | SEVERITY: CRITICAL",
+          "locationLabel": "PLC Console"
+        },
+        "cctv": {
+          "id": "cctv",
+          "name": "Turbine Floor Camera 05",
+          "text": "Substation camera records an unauthorized diagnostic programmer plugged into STATION 5.",
+          "evidenceSnippet": "VIDEO_CAM: CH-05-TURBINE | UTC: 04:12:30 | LOCATION_TAG: STATION 5 | DETECTION: UNRECOGNIZED_DEVICE",
+          "locationLabel": "Turbine Camera"
+        },
+        "access_log": {
+          "id": "access_log",
+          "name": "Physical Interlock Barrier Log",
+          "text": "Physical barrier access report confirms interlock safety gate manually forced open at STATION 5.",
+          "evidenceSnippet": "GATE_RELAY: INTERLOCK-05 | LOCATION: STATION 5 | TIMESTAMP: 04:11:45 UTC | SENSOR: TAMPER_OPEN",
+          "locationLabel": "Interlock Barrier"
+        }
+      },
+      "backgroundNodes": {
+        "network_console": {
+          "id": "network_console",
+          "name": "Analog Pressure Telemetry",
+          "text": "Bourdon tube pressure gauge monitoring boiler steam loop."
+        },
+        "artifact_case": {
+          "id": "artifact_case",
+          "name": "Emergency SCRAM Panel",
+          "text": "Hardwired emergency stop contactors armed. Safety loop closed."
+        },
+        "incident_cabinet": {
+          "id": "incident_cabinet",
+          "name": "SCADA Ladder Logic Binder",
+          "text": "Printed relay ladder diagrams for factory automation control."
+        }
+      },
+      "distractors": [
+        "STATION 1",
+        "TURBINE HALL",
+        "SUBSTATION B"
+      ],
+      "options": [
+        "STATION 5",
+        "STATION 1",
+        "TURBINE HALL",
+        "SUBSTATION B"
+      ],
+      "hints": [
+        "Review all three evidence records carefully. Pay attention to the information that appears in more than one record.",
+        "Compare the metadata fields across the incident records. One category contains a repeated identifier.",
+        "The repeated identifier is relevant to the final flag. Preserve its wording and replace spaces with underscores when formatting your submission."
+      ],
+      "secretKey": {
+        "commonLocationPhrase": "STATION 5",
+        "flag": "CYBERFORT{STATION_5}"
+      },
+      "createdAt": 1772418000000
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "audit_1792485180287_fw08",
+      "action": "ROLE_MODIFICATION",
+      "targetUid": "student_benchmark_3",
+      "reason": "Role changed from COORDINATOR to STUDENT. Justification: Test cleanup",
+      "moderator": "Vikas (Lead Coordinator) (vikas2006126@gmail.com)",
+      "timestamp": 1792485180287
+    },
+    {
+      "id": "audit_1792485180281_dp9m",
+      "action": "ACCOUNT_REACTIVATED",
+      "targetUid": "student_benchmark_2",
+      "reason": "Account active by administrator. Justification: Investigation cleared",
+      "moderator": "Vikas (Lead Coordinator) (vikas2006126@gmail.com)",
+      "timestamp": 1792485180281
+    },
+    {
+      "id": "audit_1792485180208_3eq2",
+      "action": "ACCOUNT_DEACTIVATED",
+      "targetUid": "student_benchmark_2",
+      "reason": "Account deactivated by administrator. Justification: Suspected rule breach",
+      "moderator": "Vikas (Lead Coordinator) (vikas2006126@gmail.com)",
+      "timestamp": 1792485180208
+    },
+    {
+      "id": "audit_1792485180191_gl7j",
+      "action": "ROLE_MODIFICATION",
+      "targetUid": "student_benchmark_3",
+      "reason": "Role changed from STUDENT to COORDINATOR. Justification: Assigned as room monitor",
+      "moderator": "Vikas (Lead Coordinator) (vikas2006126@gmail.com)",
+      "timestamp": 1792485180191
+    }
+  ],
+  "drafts": []
+}

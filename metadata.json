@@ -1,0 +1,8 @@
+{
+  "name": "CYBERFORT CTF 2026",
+  "description": "OPERATION SHADOW HUNT — Collegiate cyber defense investigation challenge and capture the flag event.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

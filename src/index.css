@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+    --bg-dark: #03080c;
+    --panel-bg: rgba(4, 18, 22, 0.85);
+    --emerald-accent: #00c853;
+    --emerald-glow: rgba(0, 200, 83, 0.35);
+    --cyan-accent: #00f2fe;
+    --teal-accent: #0284c7;
+    --teal-glow: rgba(0, 242, 254, 0.3);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-dark);
+    color: #e2e8f0;
+    overflow-x: hidden;
+  }
+}
+
+.font-mono, code, pre {
+  font-family: var(--font-mono);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.glass-panel {
+  background: rgba(4, 20, 24, 0.88);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 200, 83, 0.22);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+}
+
+.glass-panel-subtle {
+  background: rgba(6, 24, 29, 0.65);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(0, 242, 254, 0.12);
+}
+
+.cyber-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 200, 83, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 242, 254, 0.04) 1px, transparent 1px);
+}
+
+.perspective-chamber {
+  perspective: 1200px;
+}
+
+.interactive-node {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  transform-style: preserve-3d;
+}
+
+.interactive-node:hover {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 0 20px rgba(0, 200, 83, 0.45);
+}
+
+@keyframes floatFlagGlove {
+  0% {
+    transform: translate(-50%, -50%) scale(0.6) rotate(-15deg);
+    opacity: 0;
+  }
+  35% {
+    transform: translate(-30%, -65%) scale(1.15) rotate(5deg);
+    opacity: 1;
+    filter: drop-shadow(0 0 35px #00c853);
+  }
+  75% {
+    transform: translate(15%, -20%) scale(0.9) rotate(-8deg);
+  }
+  100% {
+    transform: translate(32%, 18%) scale(0.72) rotate(0deg);
+    opacity: 0.95;
+    filter: drop-shadow(0 0 25px #00f2fe);
+  }
+}
+
+.animate-flag-to-glove {
+  animation: floatFlagGlove 3.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+@keyframes scanline {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(1000%); }
+}
+
+.animate-scanline {
+  animation: scanline 8s linear infinite;
+}
